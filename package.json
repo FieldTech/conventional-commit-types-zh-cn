@@ -1,6 +1,6 @@
 {
   "name": "@fieldtech/conventional-commit-types-zh-cn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of conventional commit types.",
   "main": "index.json",
   "scripts": {
