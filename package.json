@@ -7,11 +7,11 @@
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson",
+  "author": "Justina Chen",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/conventional-commit-types.git"
+    "url": "https://github.com/FieldTech/conventional-commit-types-zh-cn.git"
   },
   "devDependencies": {
     "json": "^9.0.4"
