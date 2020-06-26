@@ -15,6 +15,7 @@ feat   |     Features   |      新功能
 change    |   Changes  |      需求变更
 fix   |     Bug Fixes    |      缺陷修复
 test   |     Tests    |      新增或修改测试代码
+design | Design | 新增或修改设计代码及文档
 docs  |     Documentation |      文档变更
 style |     Styles     |      代码格式调整，未涉及功能修改（如对齐、补全分号）
 refactor  |     Code Refactoring     |     代码重构，未涉及功能或缺陷修复

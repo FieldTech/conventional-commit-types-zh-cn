@@ -16,6 +16,10 @@
       "description": "新增或修改测试代码",
       "title": "Tests"
     },
+    "design": {
+      "description": "新增或修改设计代码及文档",
+      "title": "Design"
+    },
     "docs": {
       "description": "文档变更",
       "title": "Documentation"
